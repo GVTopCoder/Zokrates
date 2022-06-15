@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>xra@tahf.nv</string>
+	<key>contactName</key>
+	<string>Kenneth Hurley</string>
+	<key>description</key>
+	<string>New Bundle for Zokrates (only syntax highlighting).</string>
+	<key>isDisabled</key>
+	<true/>
+	<key>name</key>
+	<string>Zokrates</string>
+	<key>uuid</key>
+	<string>DA5761D1-7E08-43D9-BC60-75083EF74CEC</string>
+</dict>
+</plist>
